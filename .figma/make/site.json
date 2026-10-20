@@ -1,0 +1,10 @@
+{
+  "description": "Explore a comprehensive digital guide to freshwater fish species, habitats, and fishing techniques, designed for anglers seeking expert insights and practical advice.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
